@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\silas.reis\android-sdks\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\silas.reis\Desktop\CustomListViewImageText-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_0e9cc4be3f97ae21cc36ff99af3b680ae4839536.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\silas.reis\.android\build-cache\edf9ef63867c69bec4dbc41903ab6011693669b8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\silas.reis\Desktop\CustomListViewImageText-master\app\build\intermediates\pre-dexed\debug\classes_86666734aef8fa395f1f214ef61d795d22d8462c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\silas.reis\.android\build-cache\ec152d218abe6c7f96395af89c625fd6878f6075\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\silas.reis\Desktop\CustomListViewImageText-master\app\build\intermediates\pre-dexed\debug\classes_77d21c818cd529f20d90841222c46e4d55daa503.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\silas.reis\.android\build-cache\edf9ef63867c69bec4dbc41903ab6011693669b8\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\silas.reis\Desktop\CustomListViewImageText-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_b1609f7e6da629e5f01ff3088da6f43edebbe098.jar" />
+    </item>
+
+</items>
